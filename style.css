@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    background-color: black;
+}
+main{
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+main > #conteiner{
+    border: 1px solid white;
+    padding: 0px 0px 3px 0px;
+    
+}
